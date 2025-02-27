@@ -1,12 +1,25 @@
-## Hi there 👋
+# Bienvenidos a Coder-Desk 🌟
 
-<!--
+Somos una organización dedicada al desarrollo de software.
 
-**Here are some ideas to get you started:**
+## Acerca de Nosotros
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Somos un grupo de desarrolladores, diseñadores y entusiastas apasionados por el desarrollo de software. Nuestra misión es crear soluciones innovadoras y colaborativas que beneficien a la comunidad.
+
+## Proyectos Destacados
+
+Aquí tienes algunos de nuestros proyectos más destacados:
+
+- **Nexus Network eSport(https://nexus-admin.onrender.com/)**: Sitio de eventos de juegos.
+
+## Cómo Contribuir
+
+Si estás interesado en contribuir a nuestros proyectos, te invitamos a explorar nuestros proyectos públicos y a unirte a nuestra comunidad..
+
+## Código de Conducta
+
+En Coder-Desk, nos comprometemos a mantener un ambiente inclusivo y respetuoso.
+
+¡Gracias por visitarnos! 🙏
+
+Coder-Desk está en constante evolución, así que asegúrate de revisitar este perfil para obtener las últimas actualizaciones.
